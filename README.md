@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.png" />
+    <img width="400px" height="200px" alt="Happy" title="Happy" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" />
 </h1>
 
 <h3 align="center">
-  Happy - Make children's day happy
+  Happy - Leve a felicidade para o mundo
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eliasgcf/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%2315C3D6"></a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/nlw-3?color=15C3D6">
-  <a href="https://github.com/EliasGcf/nlw-3/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/nlw-3?color=15C3D6"></a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/nlw-3?color=15C3D6">
+  <a href="https://www.linkedin.com/in/wellington-fidelis-7b02b167/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Wellington%20Fidelis-%2315C3D6"></a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WellingtonFidelis/nlw03?color=15C3D6">
+  <a href="https://github.com/WellingtonFidelis/nlw03/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WellingtonFidelis/nlw03?color=15C3D6"></a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/WellingtonFidelis/nlw03?color=15C3D6">
 </p>
 
 <p align="center">
@@ -21,21 +21,19 @@
   <a href="#-license">License</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="https://insomnia.rest/run/?label=Proffy%20API%20-%20EliasGcf&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fproffy%2Fmaster%2FInsomnia.json" target="_blank">
-    <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
-  </a>
-</p>
-
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/template_git.png?raw=true" width="100%">
 </p>
 
 ## 🧸 About the project
 
 This project was developed on the Next Level Week #03 event by [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;💜
 
-Happy is an application that connects people to institutional care homes to make many children's day happier
+Happy is an application that connects people to institutional care homes to make many children's day happie.
+
+See more pictures with the app working below
+
+
 
 ## 🚀 Technologies
 
@@ -52,10 +50,14 @@ Technologies that I used to develop this application
 - [Axios](https://github.com/axios/axios)
 - [React Router DOM](https://reacttraining.com/react-router/)
 - [React Navigation](https://reactnavigation.org/)
+- [StyledComponents](https://styled-components.com/)
+- [SQLite](https://www.sqlite.org/index.html/)
+- [MVC architecture](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308/)
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
 ## 💻 Getting started
 
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
+You need of the same things.
 
 ### Requirements
 
@@ -64,7 +66,7 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 - [Expo](https://expo.io/)
 
 ```bash
-$ git clone https://github.com/EliasGcf/nlw-3.git && cd nlw-3
+$ git clone https://github.com/WellingtonFidelis/nlw03.git && cd nlw03
 ```
 
 **Follow the steps below**
@@ -123,7 +125,7 @@ $ gh repo fork WellingtonFidelis/nlw03
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd nlw-3
+$ git clone your-fork-url && cd nlw03
 # Create a branch with your feature
 $ git checkout -b my-feature
 # Make the commit with your changes
@@ -134,10 +136,30 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
+
+## :camera: Pictures
+
+<p align="center">
+    <img alt="Main page" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/page_main_dia_1.png?raw=true">
+    <img alt="Orphanages" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/page_app_dia_1.png?raw=true">
+    <img alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/page_app_create_orphanaga_1.png?raw=true">
+    <img alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/page_app_create_orphanage_2.png?raw=true">    
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-195827_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-195903_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-200002_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-200430_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-200436_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-200540_Expo.jpg?raw=true">
+    <img width="200" heigth="600" alt="Orphanage create" src="https://github.com/WellingtonFidelis/nlw03/blob/master/portifolio/Screenshot_20201018-200610_Expo.jpg?raw=true">
+</p>
+
+</p>
+</p>
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with 💜&nbsp; by Wellington Fidelis 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/wellington-fidelis-7b02b167/)
+Made with 💜&nbsp; by <strong>Wellington Fidelis</strong> 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/wellington-fidelis-7b02b167/)
