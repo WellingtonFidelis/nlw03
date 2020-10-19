@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="400px" height="200px" alt="Happy" title="Happy" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" />
+    <img width="400px" height="200px" alt="Happy" title="Happy" src="https://c0.klipartz.com/pngpicture/228/733/gratis-png-escritorio-de-github-grafana-github.png?raw=true" />
 </h1>
 
 <h3 align="center">
